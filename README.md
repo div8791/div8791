@@ -1,10 +1,10 @@
 # 💫About Me :
 👋 Hi, I’m @div8791
 <br>
-👀 I’m interested in programming.
-🌱 I have a good clasp on C++, DSA and MERN.
-💞️ I’m looking to collaborate on projects related to my field;
-📫 How to reach me div8791@gmail.com
+👀 I’m interested in programming.<br>
+🌱 I have a good clasp on C++, DSA and MERN.<br>
+💞️ I’m looking to collaborate on projects related to my field;<br>
+📫 How to reach me div8791@gmail.com<br>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyarth-singh-85a09a200) 
