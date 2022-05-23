@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @div8791
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++;
+- 🌱 I have a good clasp on C++, DSA and MERN.
 - 💞️ I’m looking to collaborate on projects related to my field;
 - 📫 How to reach me div8791@gmail.com
 
